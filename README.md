@@ -1,6 +1,7 @@
 # Project_TNP
 # Project: Digital Marketing Campaign Performance Dashboard
 Link: https://spark-doom-e3f.notion.site/PJ-Predict-Conversion-in-Digital-Marketing-379d515316cc80af9504eb48e73cb366?source=copy_link
+Story Telling: https://canva.link/wy7lnn1imdqtxlb
 ### Tools Used:  Power BI, Power Query, DAX
 
 # Project: Activity-Based Costing Dashboard
