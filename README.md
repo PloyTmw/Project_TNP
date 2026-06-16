@@ -1,7 +1,7 @@
 <h1> Project_TNP </h1>
+
 <h2>Project: Digital Marketing Campaign Performance Dashboard</h2>
 โปรเจค Dashboard ใน Power BI วิเคราะห์ประสิทธิภาพของ Digital Marketing Campaign 
-
 <div>
 <ul>
   <li>
@@ -36,3 +36,18 @@
 <ul>
 </div>
 <h3>Tools Used:  Power BI, Power Query, DAX </h3>
+
+<h2>Project: Top 10 Shows in Thailand on Netflix</h2>
+โปรเจค Extract ข้อมูลจาก Web โดยใช้ Power Automate
+<div>
+<ul>
+  <li>
+  <p>PJ Top 10 Shows in Thailand on Netflix
+  <a href="https://spark-doom-e3f.notion.site/Top-10-Shows-in-Thailand-on-Netflix-381d515316cc80378d1efe396440f3e8?source=copy_link">
+     PJ Top 10 Shows in Thailand on Netflix
+  </a>
+  </p>
+  </li>
+<ul>
+</div>
+<h3>Tools Used:  Power Automate</h3>
